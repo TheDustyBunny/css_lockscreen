@@ -46,7 +46,7 @@ body {
     margin: 0;
     padding: 0;
 
-    transition-property: filter transform;
+    transition-property: filter, transform;
     transition-duration: 0.8s;
 }
 
